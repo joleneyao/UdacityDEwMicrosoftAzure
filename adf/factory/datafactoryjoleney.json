@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryjoleney",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6caf80b2-0726-4497-a701-ec423fe80a4a",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
